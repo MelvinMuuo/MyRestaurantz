@@ -1,6 +1,7 @@
-package com.example.myrestaurantz;
+package com.example.myrestaurantz.services;
 
-import android.util.Xml;
+import com.example.myrestaurantz.Constants;
+import com.example.myrestaurantz.models.Restaurant;
 
 import org.json.JSONArray;
 import org.json.JSONException;
